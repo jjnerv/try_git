@@ -16,3 +16,6 @@ git config --list
 
 Para visualizar apenas uma configuração
 git config user.name  
+
+Para ignorar arquivos ou pastas criar arquivo com nome:
+.gitgnore
