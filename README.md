@@ -19,3 +19,9 @@ git config user.name
 
 Para ignorar arquivos ou pastas criar arquivo com nome:
 .gitgnore
+
+Enviar branch para remote
+git push origin "nome da branch"
+
+Enviar branch para outra branch em remote
+git push origin "nome da branch":"nome da branch à ser enviada"
